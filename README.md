@@ -1,4 +1,7 @@
 07-del-v 
+Pixel art avatars
+Icons for game characters or items
+User profile pictures on forums or platforms like GitHub
 - hlo.I,m creater
 - 👋 Hi, I’m @v7-del-v
 - 👀 I’m interested in ...
